@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIConBD", "APIConBD\APIConBD.csproj", "{9F98239B-4B21-4D52-87F8-7024455401BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F98239B-4B21-4D52-87F8-7024455401BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F98239B-4B21-4D52-87F8-7024455401BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F98239B-4B21-4D52-87F8-7024455401BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F98239B-4B21-4D52-87F8-7024455401BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

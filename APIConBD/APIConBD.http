@@ -1,0 +1,6 @@
+@APIConBD_HostAddress = http://localhost:5293
+
+GET {{APIConBD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
